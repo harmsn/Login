@@ -9,5 +9,5 @@
 8.cd api and the run this command in terminal "node app.js".<br/>
 9.cd client and run npm start<br/>
 NOTE :- Make sure Mongo db is installed in the computer.<br/>
-![ScreenShot](https://raw.githubusercontent.com/harmsn/login/master/profile.png)
-![ScreenShot](https://raw.githubusercontent.com/harmsn/login/master/login.png)
+![ScreenShot](/img/profile.png)
+![ScreenShot](/img/login.png)
