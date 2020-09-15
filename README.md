@@ -1,19 +1,15 @@
-<<<<<<< HEAD
-=======
-# Login
->>>>>>> 1dc80445e623b3682940623ba94ffcb0c8ce6f99
+
 #Steps to run this project
-1.clone the project
-2.cd project_folder
-3.cd api
-4.npm install
-5.cd frontend
-6.npm install
-7.cd api and the run this command in terminal "mongod --dbpath=./data"
-8.cd api and the run this command in terminal "node app.js"
-9.cd client and run npm start
-<<<<<<< HEAD
+1.clone the project<br />
+2.cd project_folder<br />
+3.cd api<br />
+4.npm install<br />
+5.cd frontend<br />
+6.npm install<br />
+7.cd api and the run this command in terminal "mongod --dbpath=./data"<br />
+8.cd api and the run this command in terminal "node app.js"<br />
+9.cd client and run npm start<br />
+![ScreenShot](https://github.com/harmsn/img/screenshot.jpg)
 NOTE :- Make sure Mongo db is installed in the computer.
-=======
-NOTE :- Make sure Mongo db is installed in the computer.
->>>>>>> 1dc80445e623b3682940623ba94ffcb0c8ce6f99
+
+
