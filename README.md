@@ -10,4 +10,3 @@
 9.cd client and run npm start<br/>
 NOTE :- Make sure Mongo db is installed in the computer.<br/>
 ![ScreenShot](/img/login.png)
-![ScreenShot](/img/profile.png)
