@@ -9,7 +9,7 @@
 7.cd api and the run this command in terminal "mongod --dbpath=./data"<br />
 8.cd api and the run this command in terminal "node app.js"<br />
 9.cd client and run npm start<br />
-
+![ScreenShot](https://github.com/harmsn/img/screenshot.jpg)
 NOTE :- Make sure Mongo db is installed in the computer.
 
 
