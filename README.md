@@ -5,6 +5,7 @@
 3.cd api
 4.npm install
 5.cd frontend
+
 6.npm install
 7.cd api and the run this command in terminal "mongod --dbpath=./data"
 8.cd api and the run this command in terminal "node app.js"
